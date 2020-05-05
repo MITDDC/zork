@@ -8,11 +8,11 @@ The files were extracted from the tape image using the [itstar program](https://
 
 The [```lcf```](../master/zork/lcf) and [```madman```](../master/zork/madman) directories contain the source code for the game.
 
-The [```act2.27```](../master/zork/act2.27) and [```dung.56```](../master/zork/dungz.56) files outside of the two main directories, are the decrypted versions of [```act2z.27```](../master/zork/lcf/act2z.27) and [```dungz.56```](../master/zork/lcf/dungz.56). The decrypted versions were created recently and added to this directory by DDC digital archivist, Joe Carrano, for researcher ease of access.  
+The [```act2.27```](../master/zork/act2.27) and [```dung.56```](../master/zork/dung.56) files outside of the two main directories, are the decrypted versions of [```act2z.27```](../master/zork/lcf/act2z.27) and [```dungz.56```](../master/zork/lcf/dungz.56). The decrypted versions were created recently and added to this directory by DDC digital archivist, Joe Carrano, for researcher ease of access.  
 
 Files with extensions ```.nbin``` and ```.save``` are binary compiled files.
 
-There was a ```zork.log``` file within the [```madman```](../master/zork/smadman) directory that detailed who played Zork at the time of creation. DDC excluded this file from public release to protect the privacy of those named.
+There was a ```zork.log``` file within the [```madman```](../master/zork/madman) directory that detailed who played Zork at the time of creation. DDC excluded this file from public release to protect the privacy of those named.
 
 ### [codemeta.json](../master/codemeta.json)
 This file is metadata about the Zork files, using the [CodeMeta Project](https://codemeta.github.io/) schema.
