@@ -1,0 +1,30 @@
+.
+├── [May  1 16:09]  codemeta.json
+├── [May  1 15:16]  README.md
+├── [May  5 14:19]  tree.txt
+└── [May  5 14:14]  zork
+    ├── [Apr 16 14:43]  act2.27
+    ├── [Apr 16 14:44]  dung.56
+    ├── [Apr 16 14:39]  lcf
+    │   ├── [Dec 10  1977]  act1.37
+    │   ├── [Dec 15  1977]  act1.38
+    │   ├── [Dec 12  1977]  act2z.27
+    │   ├── [Dec 10  1977]  act3.13
+    │   ├── [Dec 14  1977]  defs.63
+    │   ├── [Dec 12  1977]  dungz.56
+    │   ├── [Dec 14  1977]  makstr.7
+    │   ├── [Dec 14  1977]  makstr.nbin
+    │   ├── [Dec 12  1977]  nact2.nbin
+    │   ├── [Dec 14  1977]  ndefs.nbin
+    │   ├── [Dec 15  1977]  nnp.nbin
+    │   ├── [Dec 14  1977]  np.92
+    │   ├── [Dec 14  1977]  np.93
+    │   ├── [Dec 14  1977]  nrooms.nbin
+    │   ├── [Dec 12  1977]  rooms.98
+    │   └── [Dec 13  1977]  rooms.99
+    └── [May  5 14:14]  madman
+        ├── [Dec 14  1977]  madadv.help
+        ├── [Dec 12  1977]  madadv.save
+        └── [Dec  4  1977]  omadad.save
+
+3 directories, 24 files

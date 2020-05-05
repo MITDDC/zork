@@ -1,0 +1,43 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "codeRepository": "https://github.com/MITDDC/zork",
+    "dateCreated": "1977-12-16",
+    "name": "Zork",
+    "description": "1977 version of Zork, an interactive fiction game created at MIT by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling.",
+    "applicationCategory": "Game",
+    "developmentStatus": "unsupported",
+    "isPartOf": "https://archivesspace.mit.edu/repositories/2/resources/1265",
+    "keywords": [
+        "Interactive Fiction",
+        "Computer Science"
+    ],
+    "programmingLanguage": [
+        "MDL"
+    ],
+    "operatingSystem": [
+        "ITS"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Tim",
+            "familyName": "Anderson"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Marc",
+            "familyName": "Blank"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Bruce",
+            "familyName": "Daniels"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Dave",
+            "familyName": "Lebling"
+        }
+    ]
+}
