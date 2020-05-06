@@ -4,7 +4,7 @@ This repository contains the source code for a 1977 version of [Zork](https://en
 ### [zork](../master/zork)
 The files within this directory are the Zork specific files from the ```100068.tap``` tape image file within the ```/tots/recovered/vol7``` directory of the [ToTS collection](https://archivesspace.mit.edu/repositories/2/resources/1265). Most files are written in the MDL programming language and were originally created on a PDP-10 timeshare computer running the ITS operating system.
 
-The files were extracted from the tape image using the [itstar program](https://github.com/PDP-10/itstar). The filenames have been adapted to Unix conventions, as per the itstar translation. The original filename syntax would be like, ```LCF; ACT1 37```, for example. All files have been placed into this artificial zork directory for organizational purposes.
+The files were extracted from the tape image using the [itstar program](https://github.com/PDP-10/itstar). The filenames have been adapted to Unix conventions, as per the itstar translation. The original filename syntax would be formatted like, ```LCF; ACT1 37```, for example. All files have been placed into this artificial zork directory for organizational purposes.
 
 The [```lcf```](../master/zork/lcf) and [```madman```](../master/zork/madman) directories contain the source code for the game.
 
@@ -17,11 +17,11 @@ There was a ```zork.log``` file within the [```madman```](../master/zork/madman)
 ### [codemeta.json](../master/codemeta.json)
 This file is metadata about the Zork files, using the [CodeMeta Project](https://codemeta.github.io/) schema.
 ### [README.md](../master/README.md)
-This file, the readme detailing the content and context for this repository.
+This file is the readme detailing the content and context for this repository.
 ### [tree.txt](../master/tree.txt)
 A file tree listing the files in the [```zork```](../master/zork) directory showing the original file timestamps as extracted from the tape image.
 
 ## Preferred Citation
-Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741, Zork source code, 1977, [filename]. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts.
+[filename], Zork source code, 1977, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts.
 ## Acknowledgements
 Thanks to [Lars Brinkhoff](https://github.com/larsbrinkhoff) for help with identifying these files and with extracting them using the itstar program mentioned above.
