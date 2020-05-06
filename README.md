@@ -22,6 +22,6 @@ This file is the readme detailing the content and context for this repository.
 A file tree listing the files in the [```zork```](../master/zork) directory showing the original file timestamps as extracted from the tape image.
 
 ## Preferred Citation
-[filename], Zork source code, 1977, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts.
+[filename], Zork source code, 1977, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts. [swh:1:dir:2960204c42f79d203ec7da2e4abdc1e3e00a84e6](https://archive.softwareheritage.org/swh:1:dir:2960204c42f79d203ec7da2e4abdc1e3e00a84e6/)
 ## Acknowledgements
 Thanks to [Lars Brinkhoff](https://github.com/larsbrinkhoff) for help with identifying these files and with extracting them using the itstar program mentioned above.
