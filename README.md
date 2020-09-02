@@ -2,7 +2,7 @@
 This repository contains the source code for a 1977 version of [Zork](https://en.wikipedia.org/wiki/Zork), an interactive fiction game created at MIT by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling. The files are a part of the [Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection](https://archivesspace.mit.edu/repositories/2/resources/1265) at the MIT Libraries Department of Distinctive Collections (DDC).
 ## File organization and details
 ### [zork](../master/zork)
-The files within this directory are the Zork specific files from the ```9005196.tap``` tape image file within the ```/tots/recovered/vol2``` directory of the [ToTS collection](https://archivesspace.mit.edu/repositories/2/resources/1265). Most files are written in the MDL programming language and were originally created on a PDP-10 timeshare computer running the ITS operating system.
+The files within this directory are the Zork specific files from the ```100068.tap``` tape image file within the ```/tots/recovered/vol7``` directory of the [ToTS collection](https://archivesspace.mit.edu/repositories/2/resources/1265). Most files are written in the MDL programming language and were originally created on a PDP-10 timeshare computer running the ITS operating system.
 
 The files were extracted from the tape image using the [itstar program](https://github.com/PDP-10/itstar). The filenames have been adapted to Unix conventions, as per the itstar translation. The original filename syntax would be formatted like, ```LCF; ACT1 37```, for example. All files have been placed into this artificial zork directory for organizational purposes.
 
@@ -23,5 +23,7 @@ A file tree listing the files in the [```zork```](../master/zork) directory show
 
 ## Preferred Citation
 [filename], Zork source code, 1977, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts. [swh:1:dir:2960204c42f79d203ec7da2e4abdc1e3e00a84e6](https://archive.softwareheritage.org/swh:1:dir:2960204c42f79d203ec7da2e4abdc1e3e00a84e6/)
+## Rights
+The ownership status of these files is not entirely clear. To the extent that MIT holds rights in these files, we are happy to support their broad public use.  Any questions about permissions should be directed to [permissions-lib@mit.edu](mailto:permissions-lib@mit.edu)
 ## Acknowledgements
 Thanks to [Lars Brinkhoff](https://github.com/larsbrinkhoff) for help with identifying these files and with extracting them using the itstar program mentioned above.
