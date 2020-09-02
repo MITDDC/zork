@@ -2,7 +2,7 @@
 This repository contains the source code for a 1977 version of [Zork](https://en.wikipedia.org/wiki/Zork), an interactive fiction game created at MIT by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling. The files are a part of the [Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection](https://archivesspace.mit.edu/repositories/2/resources/1265) at the MIT Libraries Department of Distinctive Collections (DDC).
 ## File organization and details
 ### [zork](../master/zork)
-The files within this directory are the Zork specific files from the ```100068.tap``` tape image file within the ```/tots/recovered/vol7``` directory of the [ToTS collection](https://archivesspace.mit.edu/repositories/2/resources/1265). Most files are written in the MDL programming language and were originally created on a PDP-10 timeshare computer running the ITS operating system.
+The files within this directory are the Zork specific files from the ```9005196.tap``` tape image file within the ```/tots/recovered/vol2``` directory of the [ToTS collection](https://archivesspace.mit.edu/repositories/2/resources/1265). Most files are written in the MDL programming language and were originally created on a PDP-10 timeshare computer running the ITS operating system.
 
 The files were extracted from the tape image using the [itstar program](https://github.com/PDP-10/itstar). The filenames have been adapted to Unix conventions, as per the itstar translation. The original filename syntax would be formatted like, ```LCF; ACT1 37```, for example. All files have been placed into this artificial zork directory for organizational purposes.
 
